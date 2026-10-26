@@ -1,0 +1,17 @@
+{
+  "name": "PiNAS Community",
+  "packages": [
+    {
+      "id": "tailscale",
+      "name": "Tailscale",
+      "version": "1.0.0",
+      "description": "Доступ к PiNAS из любой точки без проброса портов: защищённая сеть Tailscale между Pi, телефоном и компьютером. Вход по ссылке, адреса для подключения, доступ к домашней сети, выходной узел, HTTPS-адрес.",
+      "author": "PiNAS Community",
+      "run_as": "root",
+      "admin_only": true,
+      "file": "tailscale-1.0.0.zip",
+      "sha256": "80e20b1161c4325ef81c9b4be4d7f8d5f33de1e34fb080b5b119eb6da8919a34",
+      "icon": "tailscale.svg"
+    }
+  ]
+}
